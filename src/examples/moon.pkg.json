@@ -1,0 +1,4 @@
+{
+  "is-main": true,
+  "import": ["rami3l/js-ffi/js", "mizchi/js-ffi/fetch"]
+}
